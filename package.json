@@ -1,0 +1,27 @@
+{
+    "name": "@Mohamed-78/react-native-card-media",
+    "version": "1.0.0",
+    "description": "A custom React Native 'Cards' component, offering simple integration and flexibility for mobile projects.",
+    "main": "index.jsx",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Mohamed-78/react-native-card-media"
+    },
+    "keywords": [
+      "react-native",
+      "react-native-card-media"
+    ],
+    "author": "Irié Mohamed",
+    "license": "MIT",
+    "peerDependencies": {
+      "react": "^16.8.0",
+      "react-native": "^0.60.0"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-native": "0.72.6"
+    }
+}
