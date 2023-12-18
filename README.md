@@ -1,4 +1,4 @@
-# react-native-card-element
+# react-native-card-media
 
 ![npm version](https://img.shields.io/npm/v/react-native-card-media.svg)
 ![license](https://img.shields.io/npm/l/react-native-card-media.svg)
