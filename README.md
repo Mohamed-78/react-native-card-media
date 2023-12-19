@@ -2,6 +2,7 @@
 
 ![npm version](https://img.shields.io/npm/v/react-native-card-media.svg)
 ![license](https://img.shields.io/npm/l/react-native-card-media.svg)
+[![npm](https://img.shields.io/npm/dt/react-native-card-element.svg)](https://www.npmjs.com/package/react-native-card-element)
 
 React Native "Card media" component, offering simple integration and flexibility for mobile projects. Example for use it: You can use it to do your products content if you create an eCommerce app
 
