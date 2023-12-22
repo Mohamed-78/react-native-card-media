@@ -1,6 +1,6 @@
 {
-    "name": "@Mohamed-78/react-native-card-media",
-    "version": "1.0.0",
+    "name": "react-card-media-element",
+    "version": "1.0.6",
     "description": "A custom React Native 'Cards' component, offering simple integration and flexibility for mobile projects.",
     "main": "index.jsx",
     "scripts": {
