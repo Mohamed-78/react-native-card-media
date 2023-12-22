@@ -3,7 +3,8 @@ import { View, Text, Image } from 'react-native'
 import styles from './cardmedia.style'
 
 const CardMedia = ({ 
-    description, title, 
+    description, 
+    title, 
     subtitle, 
     titleFontSize, 
     subtitleFontSize, 
