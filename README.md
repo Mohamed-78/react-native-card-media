@@ -54,7 +54,7 @@ Second example :
     description="Description" />
 ```
 
-it you want to pass add image with url, dont't specify uri, use that like in first example
+If you want to pass add image with url, dont't specify uri, use that like in first example
 
 ## Customize
 You can customize font size of title, subtitle, and description with this differents elements below:
