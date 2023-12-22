@@ -2,7 +2,7 @@
 
 ![npm version](https://img.shields.io/npm/v/react-native-card-media.svg)
 ![license](https://img.shields.io/npm/l/react-native-card-media.svg)
-[![npm](https://img.shields.io/npm/dt/react-native-card-media.svg)](https://www.npmjs.com/package/react-native-card-media)
+[![npm](https://img.shields.io/npm/dt/react-card-media-element.svg)](https://www.npmjs.com/package/react-card-media-element)
 
 A simple React Native component for displaying a card.
 
